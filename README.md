@@ -1,4 +1,4 @@
-PROTECTORA DE ANIMALES
+PROTECTORA DE ANIMALES:
 
  1. Introducción
  2. Modelo Conceptual y lógico
